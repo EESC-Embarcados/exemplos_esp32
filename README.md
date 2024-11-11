@@ -13,7 +13,7 @@ Além dos arquivos principais para o PlatformIO (`.cpp` e `platformio.ini`), cad
 
 ### PlatformIO
 
-- Para usar os exemplos com o PlatformIO, é necessário instalar o [PlatformIO IDE](https://platformio.org/platformio-ide) (disponível para VSCode e outros editores).
+- Para usar os exemplos com o PlatformIO, é necessário instalar o [PlatformIO IDE](https://platformio.org/platformio-ide) (esses exemplos foram desenvolvidos através da IDE VsCode).
 
 ### Arduino IDE
 
